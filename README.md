@@ -18,7 +18,6 @@ Download the pretrained weights from [Baidu Pan](https://pan.baidu.com/s/1QQ65gG
 
 ## Training
 
-Modify `finetune.yaml` to set your data paths, then run:
 ```bash
 CUDA_VISIBLE_DEVICES=0 python train.py --cfg-path finetune.yaml
 ```
