@@ -4,7 +4,7 @@ model:
   max_txt_len: 1024
   end_sym: "###"
   llama_model: "./params_weight/Phi_2"
-  ckpt: './params_weight/pointalign/pretrain.pth'  # 从Stage III加载
+  ckpt: './params_weight/pointalign/pretrain.pth'  
   use_grad_checkpoint: True
   chat_template: True
   lora_r: 64
