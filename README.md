@@ -25,7 +25,7 @@ If you find PointAlign useful, please consider giving us a star ⭐.
 ### Overview
 
 <div align="center">
-  <img src="https://github.com/yharoldsu0627/PointAlign/assets/framework.jpg" width="70%" />
+  <img src="assets/framework.jpg" width="70%" />
 </div>
 <p align="center">Figure 1. Overview of PointAlign.</p>
 
@@ -34,7 +34,7 @@ PointAlign enhances 3D vision-language understanding through **feature-level ali
 ### Qualitative Results
 
 <div align="center">
-  <img src="https://github.com/yharoldsu0627/PointAlign/assets/qualitative_result.jpg" width="70%" />
+  <img src="assets/qualitative_result.jpg" width="70%" />
 </div>
 <p align="center">Figure 2. Qualitative Results.</p>
 
