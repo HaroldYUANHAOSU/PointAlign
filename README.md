@@ -44,12 +44,16 @@ PointAlign enhances 3D vision-language understanding through **feature-level ali
 
 **3D Object Captioning on Objaverse**
 
+<div align="center">
+
 | Model | Qwen2-72B ↑ | Sentence-BERT ↑ | SimCSE ↑ | Avg ↑ |
 |-------|:-:|:-:|:-:|:-:|
 | PointLLM-7B | 42.20 | 48.50 | 48.92 | 46.54 |
 | PointLLM-13B | 40.40 | 49.07 | 48.41 | 45.96 |
 | MiniGPT-3D | 48.17 | **49.54** | **51.39** | 49.70 |
 | **PointAlign (Ours)** | **53.05** | 49.94 | 51.32 | **51.44** |
+
+</div>
 
 ## ⚙️ Quick Start
 
