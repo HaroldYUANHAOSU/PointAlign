@@ -7,11 +7,6 @@
 
 ✨ **A step towards better 3D vision-language understanding by preserving geometric information throughout the language modeling process.**
 
-| Model | Objaverse (I) | Objaverse (C) | ModelNet40 Avg |
-|-|-|-|-|
-| MiniGPT-3D | 65.00 | 68.50 | 61.24 |
-| **PointAlign (Ours)** | **72.50** | **69.50** | **61.17** |
-
 ### ✅ Project Status
 
 🎉 **Accepted to CVPR 2026!**
@@ -24,7 +19,10 @@ If you find PointAlign useful, please consider giving us a star ⭐.
 
 ### Introduction
 
-<!-- 在这里插入你的 Introduction 图片，步骤见文末 -->
+<div align="center">
+  <img src="https://github.com/yharoldsu0627/PointAlign/assets/framework.pdf" width="70%" />
+</div>
+<p align="center">Figure 1. Overview of PointAlign.</p>
 
 🔍
 **Geometric Information Degradation:** Existing 3D VLMs rely solely on next-token prediction loss, causing valuable geometric cues to be discarded during training. PointAlign addresses this by explicitly supervising intermediate point cloud tokens within the LLM to preserve fine-grained 3D geometric-semantic information throughout the language modeling process.
