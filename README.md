@@ -92,10 +92,10 @@ This project builds upon [**MiniGPT-3D**](https://github.com/TangYuan96/MiniGPT-
 ## Citation
 
 ```bibtex
-@inproceedings{su2026pointalign,
-  title     = {PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models},
-  author    = {Su, Yuanhao and Zhang, Shaofeng and Jia, Xiaosong and Fan, Qi},
-  booktitle = {CVPR},
-  year      = {2026}
+@article{su2026pointalign,
+  title={PointAlign: Feature-Level Alignment Regularization for 3D Vision-Language Models},
+  author={Su, Yuanhao and Zhang, Shaofeng and Jia, Xiaosong and Fan, Qi},
+  journal={arXiv preprint arXiv:2603.00412},
+  year={2026}
 }
 ```
